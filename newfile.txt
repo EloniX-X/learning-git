@@ -12,6 +12,3 @@ what am i doing
 ok im getting git
 gitting gitter
 
-add
-commit 
-push
